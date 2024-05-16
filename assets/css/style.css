@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.caixa01{
+    width: 250px;
+    height: 375px;
+    background-color: rgb(44, 42, 75);
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.caixinha{
+    display: flex;
+    justify-content: flex-start;
+}
+
+button{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+input{
+    width: 235px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
